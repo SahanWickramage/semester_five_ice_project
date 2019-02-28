@@ -36,6 +36,7 @@ if len(mask_roi.shape)==2:
 else:
     cv2.fillPoly(mask_roi, vertices, (255,)*mask_roi.shape[2]) # in case, the input image has a channel dimension        
 
+cv2.imshow('rigion of interest polygon',mask_roi)
 img_roi = cv2.bitwise_and(img_out_canny_edge_detection, mask_roi)
 cv2.imshow('region of interest',img_roi)
 
