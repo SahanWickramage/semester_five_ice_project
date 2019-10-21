@@ -1,0 +1,19 @@
+def show_interactive(img):
+    '''Display an image with interactive controls for tuning threshold parameters. 
+    
+    More info here:
+    https://ipython.org/ipython-doc/3/api/generated/IPython.display.html#IPython.display.Image
+    '''
+    
+    if img.ndim == 2:
+        format, cmap = 'png', mpl.cm.gray
+    elif img.ndim == 3:
+        format, cmap = 'jpg', None
+    else:
+        raise ValueError("Only 2- or 3-d arrays can be displayed as images.")
+        
+    with BytesIO() as buffer:
+        mpl.image.imsave(buffer, img, format=format, cmap=cmap, vmin=0, vmax=1.0)
+        out = buffer.getvalue()
+        
+    return Image(out, width=600)
