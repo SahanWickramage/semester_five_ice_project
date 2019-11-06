@@ -22,3 +22,5 @@ Output results
 
 ![Night time example](https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/night.jpg | width=100)
 
+<img src="https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/day.jpg" width="100" height="100"></img>
+
