@@ -18,11 +18,9 @@ Select thresholding values     | Calculate the results and merge results with th
 
 Output results
 
-* Day time example
+* Day time example * Night time example
 
 <img src="https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/day.jpg" width="400" height="250" align="left"></img>
-
-* Night time example
 
 <img src="https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/night.jpg" width="400" height="250" align="left"></img>
 
