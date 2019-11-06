@@ -18,9 +18,7 @@ Select thresholding values     | Calculate the results and merge results with th
 
 Output results 
 
-* Day time example 
-https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/day.jpg
+![Day time example](https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/day.jpg)
 
-* Night time example
-https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/night.jpg
+![Night time example](https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/night.jpg)
 
