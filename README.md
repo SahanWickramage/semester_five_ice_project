@@ -15,3 +15,12 @@ Image classification component | Image processing component
 ------------------------------ | --------------------------
 Classify the time of the day   | Extract the feature from the frame
 Select thresholding values     | Calculate the results and merge results with the original frame
+
+Output results 
+
+* Day time example 
+https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/day.jpg
+
+* Night time example
+https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/night.jpg
+
