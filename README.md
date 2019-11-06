@@ -14,5 +14,4 @@ Functionalities of the mentioned components
 Image classification component | Image processing component
 ------------------------------ | --------------------------
 Classify the time of the day   | Extract the feature from the frame
-                               | Calculate the results
-                               | Merge results with the original frame
+Select thresholding values     | Calculate the results and merge results with the original frame
