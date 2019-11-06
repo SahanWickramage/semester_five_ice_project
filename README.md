@@ -16,11 +16,11 @@ Image classification component | Image processing component
 Classify the time of the day   | Extract the feature from the frame
 Select thresholding values     | Calculate the results and merge results with the original frame
 
-Output results 
+Output results
 
-![Day time example](https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/day.jpg =100x100)
+* Day time example
+<img src="https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/day.jpg" width="400" height="300"></img>
 
-![Night time example](https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/night.jpg | width=100)
-
-<img src="https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/day.jpg" width="100" height="100"></img>
+* Night time example
+<img src="https://github.com/SahanWickramage/semester_five_ice_project/blob/master/output_images/night.jpg" width="400" height="300"></img>
 
